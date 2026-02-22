@@ -1,0 +1,11 @@
+{
+  "name": "mac-csse-webring",
+  "private": true,
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./css/input.css -o ./css/output.css",
+    "watch:css": "npx tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

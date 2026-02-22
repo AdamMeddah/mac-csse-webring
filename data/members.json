@@ -1,0 +1,26 @@
+{
+  "sites": [
+    {
+      "name": "Seif Otefa",
+      "year": 2028,
+      "program": "CS",
+      "website": "https://seifotefa.com",
+      "links": {
+        "instagram": "",
+        "twitter": "https://x.com/0xseifo",
+        "linkedin": "https://www.linkedin.com/in/seif-otefa/"
+      }
+    },
+    {
+      "name": "Richard Motorgeanu",
+      "year": 2026,
+      "program": "CS",
+      "website": "https://multipixels.dev/",
+      "links": {
+        "instagram": "",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/richard-motorgeanu/"
+      }
+    }
+  ]
+}
