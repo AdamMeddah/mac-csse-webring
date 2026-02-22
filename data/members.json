@@ -65,5 +65,16 @@
         "linkedin": "https://www.linkedin.com/in/pavlos-defoort/"
       }
     }
+      {
+      "name": "Adam Meddah",
+      "year": 2028,
+      "program": "CS",
+      "website": "https://adammeddah.com",
+      "links": {
+        "instagram": "",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/adammeddah/"
+      }
+    }
   ]
 }
